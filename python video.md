@@ -1,4 +1,4 @@
-#
+# python程式教學錄影
 | 章節 | YOUTUBE網址|
 |-----|--------|
 | ch0_使用GoogleColab開發python程式 | https://youtu.be/E2VOQXlbQog  |
@@ -11,8 +11,4 @@
 | ch4_廻圈loop| |
 | ch5_函數| |
 | ch6_初階模組化程式設計| |
-
-
 ## 
-| | |
-| | |
