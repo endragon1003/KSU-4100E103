@@ -38,7 +38,7 @@
   <a href="index.html">Home</a>
   <a href="breakfast.html">Breakfast</a>
 </p> 
-#嵌入圖片
+
 <h1>Pancakes</h1>
 <h2>The Short Stack</h2>
 <p>Three fluffy pancakes served with powdered sugar, maple syrup, and butter.</p>
