@@ -4,7 +4,7 @@
 <head>
     <title>Cafe Unlimited - Home</title>
 
-    <script>
+    <script> #java 函式
         function bigger(){
             document.getElementById('body').style.fontSize='x-large';
         }
@@ -12,7 +12,7 @@
             document.getElementById('body').style.fontSize='medium';
         }
     </script>
-    <style>
+    <style> #字行與顏色
         h1 {
             font-family: fantasy;
             color: slategray;
@@ -28,21 +28,21 @@
         }
     </style>
 
-</head>
+</head> #背景圖
 <body id="body" style="background-image:url(images/background.png)">
 
-<!-- Banner -->
+<!-- Banner --> #上方橫幅
 <p>
     <img src="images/banner.png" alt="Cafe Unlimited - Banner">
 </p>
 
-<!-- Navigation links -->
+<!-- Navigation links --> #超連結
 <p style="background:slategray;font-weight: bolder;">
     <a href="index.html">Home</a>
     <a href="breakfast.html">Breakfast</a>
 </p>
 
-<!-- Breakfast photos -->
+<!-- Breakfast photos --> #嵌入圖片
 <p>
     <img src="images/pancakes.jpg" alt="Pancakes">
     <img src="images/muffin.jpg" alt="Muffin" >
@@ -71,7 +71,7 @@
     Be part of the Cafe Unlimited family! Have a great meal, relax, socialize, and come back again soon!</p>
 <p>We offer delivery on <a href="http://ubereats.com" target="_blank">UberEats</a>. Download the app and place your order today. Please contact us about catering services.</p>
 
-<p>We are located at 20 Channel Center Street in Boston, MA.</p>
+<p>We are located at 20 Channel Center Street in Boston, MA.</p> #嵌入GOOGLE地圖
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.8366673124624!2d-71.05369318489703!3d42.346005543982265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37a7de82a1251%3A0xb79b53cf96e26c94!2s20+Channel+Center+St%2C+Boston%2C+MA+02210!5e0!3m2!1sen!2sus!4v1543445329233" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <p>    We are open:</p>
 
