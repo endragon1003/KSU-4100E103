@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Cafe Unlimited - Breakfast</title>
-    <style>
+    <style> #字行與顏色
         h1 {
             font-family: fantasy;
             color: #448ccb;  /* banner blue */
@@ -27,18 +27,18 @@
     </style>
 </head>
 
-<body style="background-color: lightsteelblue">
-<!-- Banner -->
+<body style="background-color: lightsteelblue"> #背景
+<!-- Banner --> #上方橫幅
 <p>
     <img src="images/banner.png" alt="Cafe Unlimited - Banner">
 </p>
-<!-- Navigation links -->
+<!-- Navigation links --> #超連結
 <p style="background:slategray;font-weight:bold;">
     
   <a href="index.html">Home</a>
   <a href="breakfast.html">Breakfast</a>
-</p>
-
+</p> 
+#嵌入圖片
 <h1>Pancakes</h1>
 <h2>The Short Stack</h2>
 <p>Three fluffy pancakes served with powdered sugar, maple syrup, and butter.</p>
@@ -69,7 +69,7 @@
     <li>Fresh fruit salad</li>
 </ul>
 
-
+#嵌入
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWuuCndtJr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
